@@ -143,6 +143,9 @@ uvicorn app.main:app --reload --port 8888
 ```bash
 git clone https://github.com/hagr27/powerplant-coding-challenge.git
 cd powerplant-coding-challenge
+
+# Checkout the branch for the challenge (feat/production-planning-challenge)
+git checkout feat/production-planning-challenge
 ```
 
 2. Build the Docker containers:
